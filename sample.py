@@ -12,4 +12,6 @@ def subtract(x, y):
 def multiply(x, y):
     return x*y
 
-print("The end")
+def power(x, y):
+    return x**y
+
