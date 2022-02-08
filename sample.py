@@ -17,3 +17,6 @@ def power(a, b):
 
 def new_func():
     print("Hello World!")
+
+def say_hi():
+    print("Hi")
