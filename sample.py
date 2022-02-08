@@ -16,4 +16,4 @@ def power(a, b):
     return a**b
 
 def new_func():
-    pass
+    print("Hello World!")
