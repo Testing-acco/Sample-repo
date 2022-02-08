@@ -1,8 +1,8 @@
 print("Hello!")
 
-def divide(x, y):
-    print(x/y)
-
+def divide(a, b):
+    return a/b
+  
 def add(x, y):
     return x+y
 
