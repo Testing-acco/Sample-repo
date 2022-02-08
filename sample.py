@@ -19,5 +19,4 @@ def say_hi():
     print("Hi")
 
 def new_func(name):
-    print(f"Hello {name}!")
-
+    print(f"Hello {name}! Nice to meet you.")
