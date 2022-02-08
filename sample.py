@@ -1,7 +1,7 @@
 print("Hello!")
 
 def divide(x, y):
-    return x/y
+    print(x/y)
 
 def add(x, y):
     return x+y
